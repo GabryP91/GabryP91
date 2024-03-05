@@ -1,13 +1,13 @@
-# Hi I am Palma Gabriele 🦿🦿
+# 🦾🦾 I am Palma Gabriele 🦿🦿
 
-## Junior Full-Stack Developer
+## Junior Full-Stack Developer and designer 3d ans 2d
 
 - 🌍  I'm based in Barletta (BT) Italy
-- 🧠  I'm currently learning Laravel
+- 🧠  I'm currently learning Laravel , Vue and other languages
 
 #
 
-### 😃 Contact me!
+### 😃 My contact!! 
 
 <a href="https://www.linkedin.com/in/gabriele-palma-758b59210/" target="_blank"><img align='left' alt='LinkedIn' width='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=rumi.alessandro21@gmail.com" target="_blank"><img align='left' alt='Gmail' width='30px' src="https://img.icons8.com/color/96/gmail-new.png" /></a>
