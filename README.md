@@ -7,7 +7,7 @@
 
 #
 
-### 😃 My contact!! 
+### 😃 My contact!!
 
 <a href="https://www.linkedin.com/in/gabriele-palma-758b59210/" target="_blank"><img align='left' alt='LinkedIn' width='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=rumi.alessandro21@gmail.com" target="_blank"><img align='left' alt='Gmail' width='30px' src="https://img.icons8.com/color/96/gmail-new.png" /></a>
@@ -17,6 +17,7 @@
 #
 
 ### 🧰 Languages & Tools
+
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-plain.svg" />
@@ -43,7 +44,7 @@
 
 <b>My GitHub Stats</b>
 
-<a href="https://bestr.it/award/show/mOSagn4VQV6OjCvrA-b1oQ"><img src="https://openbadges.bestr.it/public/assertions/mOSagn4VQV6OjCvrA-b1oQ" alt="Palma's badge" /></a>
+<a href="https://bestr.it/award/show/mOSagn4VQV6OjCvrA-b1oQ"><img src="img/assertion-mOSagn4VQV6OjCvrA-b1oQ.png" alt="Palma's badge" /></a>
 
 <a href="https://github.com/GabryP91"><img src="https://github-readme-stats.vercel.app/api?username=GabryP91&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Palma's GitHub stats" /></a>
 
