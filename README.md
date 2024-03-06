@@ -1,13 +1,13 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Palma Gabriele
+# 🦾🦾 I am Palma Gabriele 🦿🦿
 
-## Junior Full-Stack Developer
+## Junior Full-Stack Developer and designer 3d ans 2d
 
 - 🌍  I'm based in Barletta (BT) Italy
-- 🧠  I'm currently learning Laravel
+- 🧠  I'm currently learning Laravel , Vue and other languages
 
 #
 
-### 😃 Contact me!
+### 😃 My contact!! 
 
 <a href="https://www.linkedin.com/in/gabriele-palma-758b59210/" target="_blank"><img align='left' alt='LinkedIn' width='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=rumi.alessandro21@gmail.com" target="_blank"><img align='left' alt='Gmail' width='30px' src="https://img.icons8.com/color/96/gmail-new.png" /></a>
@@ -17,7 +17,10 @@
 #
 
 ### 🧰 Languages & Tools
-
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-plain.svg" />
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
@@ -27,7 +30,8 @@
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />                                        
-<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />   
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />   
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />     
           
