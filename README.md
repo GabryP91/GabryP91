@@ -1,6 +1,6 @@
 # 🦾🦾 I am Palma Gabriele 🦿🦿
 
-## Junior Full-Stack Developer and designer 3d ans 2d
+## Junior Full-Stack Developer and designer 2d and 3d
 
 - 🌍  I'm based in Barletta (BT) Italy
 - 🧠  I'm currently learning Laravel , Vue and other languages
