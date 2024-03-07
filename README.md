@@ -47,6 +47,14 @@
 <a href="https://bestr.it/award/show/mOSagn4VQV6OjCvrA-b1oQ"><img src="img/assertion-mOSagn4VQV6OjCvrA-b1oQ.png" style="width:50px"  alt="Palma's badge" /></a>
 <a href="https://openbadges.bestr.it/public/assertions/sL47oGnRQG--2CT1pLOOxg"><img src="img/assertion-mOSagn4VQV6OjCvrA-b1oQ.png" style="width:50px"  alt="Palma's badge" /></a>
 <a href="https://openbadges.bestr.it/public/assertions/yl4fsottTrmJzi4dCrwGPA"><img src="img/assertion-mOSagn4VQV6OjCvrA-b1oQ.png" style="width:50px"  alt="Palma's badge" /></a>
+<a href="https://openbadges.bestr.it/public/assertions/lbFVhgGaSj6V9N97MdBnjw"><img src="img/assertion-mOSagn4VQV6OjCvrA-b1oQ.png" style="width:50px"  alt="Palma's badge" /></a>
+<a href="https://openbadges.bestr.it/public/assertions/n5iO-cNlSh2frcFzEzmGpQ"><img src="img/assertion-mOSagn4VQV6OjCvrA-b1oQ.png" style="width:50px"  alt="Palma's badge" /></a>
+<a href="https://openbadges.bestr.it/public/assertions/8mnCOL9qTVusrHNPM05PgA"><img src="img/assertion-mOSagn4VQV6OjCvrA-b1oQ.png" style="width:50px"  alt="Palma's badge" /></a>
+<a href="https://openbadges.bestr.it/public/assertions/iolaP7aiStGp_e4g4fgozg"><img src="img/assertion-mOSagn4VQV6OjCvrA-b1oQ.png" style="width:50px"  alt="Palma's badge" /></a>
+<a href="https://openbadges.bestr.it/public/assertions/OLrz9iTQSsyogCLx-mV49w"><img src="img/assertion-mOSagn4VQV6OjCvrA-b1oQ.png" style="width:50px"  alt="Palma's badge" /></a>
+<a href="https://openbadges.bestr.it/public/assertions/QYDBkWK-TpmS4CthL8AOuQ"><img src="img/assertion-mOSagn4VQV6OjCvrA-b1oQ.png" style="width:50px"  alt="Palma's badge" /></a>
+<a href="https://openbadges.bestr.it/public/assertions/2komV8mUTPaLHQ3Ah3n8ow"><img src="img/assertion-mOSagn4VQV6OjCvrA-b1oQ.png" style="width:50px"  alt="Palma's badge" /></a>
+<a href="https://openbadges.bestr.it/public/assertions/pP_u7HctQPaz86V9s_3Tuw"><img src="img/assertion-mOSagn4VQV6OjCvrA-b1oQ.png" style="width:50px"  alt="Palma's badge" /></a>
 
 <b>My GitHub Stats</b>
 
