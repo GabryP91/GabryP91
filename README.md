@@ -1,4 +1,4 @@
-# 🦾🦾 I am Palma Gabriele 🦿🦿
+<h1 align="center"># 🦾🦾 I am Palma Gabriele 🦿🦿</h1>
 
 ## Junior Full-Stack Developer and designer 2d and 3d
 
