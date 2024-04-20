@@ -1,6 +1,6 @@
 <h1 align="center"># 🦾🦾 I am Palma Gabriele 🦿🦿</h1>
 
-<h1 align="center">## Junior Full-Stack Developer and designer 2d and 3d</h1>
+<h1 align="center">##Junior Full-Stack Developer and designer 2d and 3d##</h1>
 
 - 🌍  I'm based in Barletta (BT) Italy
 - 🧠  I'm currently learning Laravel , Vue and other languages
