@@ -7,7 +7,7 @@
 
 #
 
-<div align="center; margin: 20px">           
+<div style="text-align: center; margin: 20px;">           
     <h3>😃 Contattami!! 😃</h3>
 
 <a href="https://www.linkedin.com/in/gabriele-palma-758b59210/" target="_blank"><img margin='20px' alt='LinkedIn' width='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
