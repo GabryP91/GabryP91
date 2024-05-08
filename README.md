@@ -78,7 +78,7 @@
           <img src="https://streak-stats.demolab.com?user=GabryP91&theme=blue-green&hide_border=true&border_radius=6" />
      </a>
 </div>
-<div style="text-align: center;">
+<div align="center">
     <a href="https://github.com/GabryP91" style="display: inline-block; margin-right: 20px;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabryP91&layout=pie&theme=blue-green&langs_count=10&border_radius=6"/>
     </a>
