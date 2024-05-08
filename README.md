@@ -16,7 +16,7 @@
 <a href="https://telegram.me/GabrieleP91" target="_blank"><img align='left' alt='Telegram' width='30px' src="https://img.icons8.com/color/96/telegram-app--v1.png" /></a>
 
 
-<br>
+<br clear="both">
 
 #
 
@@ -36,7 +36,7 @@
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="margin-top: 10px;"/>
 <img align="left" width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" style="margin-top: 10px;"/>
 
-### <br>
+### <br clear="both">
 
 
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" style="margin-top: 10px;"/>
@@ -47,7 +47,7 @@
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="margin-top: 10px;"/>
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" style="margin-top: 10px;"/>     
           
-<br>
+<br clear="both">
 
 #
 
