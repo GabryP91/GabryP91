@@ -67,8 +67,8 @@
 <a href="https://openbadges.bestr.it/public/assertions/2komV8mUTPaLHQ3Ah3n8ow"><img src="img/assertion-mOSagn4VQV6OjCvrA-b1oQ.png" style="width:50px"  alt="Palma's badge" /></a>
 <a href="https://openbadges.bestr.it/public/assertions/pP_u7HctQPaz86V9s_3Tuw"><img src="img/assertion-mOSagn4VQV6OjCvrA-b1oQ.png" style="width:50px"  alt="Palma's badge" /></a>
 
-<b>My GitHub Stats</b>
 
+<h3 align="center"> ### 😃 My GitHub Stats!! ###</h3>
 
 <div align="center">
     <a href="https://github.com/GabryP91" style="display: inline-block; margin-right: 20px;">
