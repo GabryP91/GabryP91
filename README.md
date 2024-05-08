@@ -72,7 +72,7 @@
 
 <div align="center">
     <a href="https://github.com/GabryP91" style="display: inline-block; margin-right: 20px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=GabryP91&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Palma's GitHub stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=GabryP91&show_icons=true&theme=blue-green" />
     </a>
      <a href="https://github.com/GabryP91" style="display: inline-block; margin-right: 20px;">
           <img src="https://streak-stats.demolab.com?user=GabryP91&theme=blue-green&hide_border=true&border_radius=6" />
