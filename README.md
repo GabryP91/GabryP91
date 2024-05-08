@@ -79,6 +79,6 @@
      </a>
 </div>
 
-<a href="https://github.com/GabryP91" align="center">
+<a href="https://github.com/GabryP91" style="display: inline-block; margin-right: 20px;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabryP91&layout=pie&langs_count=10"/>
 </a>
