@@ -6,19 +6,8 @@
 - 🧠  I'm currently learning Laravel , Vue, .Net and other languages
 
 #
-
-<div style="text-align: center; margin: 20px;">           
-    <h3>😃 Contattami!! 😃</h3>
-
-<a href="https://www.linkedin.com/in/gabriele-palma-758b59210/" target="_blank"><img margin='20px' alt='LinkedIn' width='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
-<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=gabry.palma@libero.it" target="_blank"><img  alt='Libero' width='30px' src="img/Libero_logo.png" /></a>
-<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=dott.gabrielepalma@pec.it" target="_blank"><img  alt='Aruba' width='30px' src="img/aruba_logo.png" /></a>
-<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=gabry.palma1@gmail.com" target="_blank"><img alt='Gmail' width='30px' src="https://img.icons8.com/color/96/gmail-new.png" /></a>
-<a href="https://telegram.me/GabrieleP91" target="_blank"><img  alt='Telegram' width='30px' src="https://img.icons8.com/color/96/telegram-app--v1.png" /></a>
-</div>
-
- <div align="center">           
-<h3 > ### 😃 My contact!! ###</h3>
+     
+<h3 align="center"> ### 😃 My contact!! ###</h3>
 
 <a href="https://www.linkedin.com/in/gabriele-palma-758b59210/" target="_blank"><img align='left' alt='LinkedIn' width='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=gabry.palma@libero.it" target="_blank"><img align='left' alt='Libero' width='30px' src="img/Libero_logo.png" /></a>
@@ -26,7 +15,6 @@
 <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=gabry.palma1@gmail.com" target="_blank"><img align='left' alt='Gmail' width='30px' src="https://img.icons8.com/color/96/gmail-new.png" /></a>
 <a href="https://telegram.me/GabrieleP91" target="_blank"><img align='left' alt='Telegram' width='30px' src="https://img.icons8.com/color/96/telegram-app--v1.png" /></a>
 
-</div>
 
 <br>
 
