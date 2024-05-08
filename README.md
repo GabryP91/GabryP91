@@ -7,7 +7,7 @@
 
 #
      
-<h3 align="center"> ### 😃 My contact!! ###</h3>
+<h3 align="center"> ### 📡 My contact!! ###</h3>
 
 <a href="https://www.linkedin.com/in/gabriele-palma-758b59210/" target="_blank"><img align='left' alt='LinkedIn' width='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=gabry.palma@libero.it" target="_blank"><img align='left' alt='Libero' width='30px' src="img/Libero_logo.png" /></a>
@@ -20,7 +20,7 @@
 
 #
 
-### 🧰 Languages & Tools
+<h3 align="center"> ### 🧰 Languages & Tools ###</h3>
 
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" style="margin-top: 10px;"/>
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" style="margin-top: 10px;"/>
@@ -50,8 +50,7 @@
 <br clear="both">
 
 #
-
-### Badges
+<h3 align="center"> ### 🎓 Badges ###</h3>
 
 <b>My public Certifications </b>
 
@@ -69,7 +68,7 @@
 
 #
 
-<h3 align="center"> ### 😃 My GitHub Stats!! ###</h3>
+<h3 align="center"> ### 📉 My GitHub Stats!! 📈 ###</h3>
 
 <div align="center">
      <a href="https://github.com/GabryP91" style="display: inline-block; margin-right: 20px;">
