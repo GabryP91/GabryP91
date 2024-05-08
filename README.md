@@ -3,7 +3,7 @@
 <h1 align="center">Junior Full-Stack Developer and designer 2d and 3d</h1>
 
 - 🌍  I'm based in Barletta (BT) Italy
-- 🧠  I'm currently learning Laravel , Vue, C# and other languages
+- 🧠  I'm currently learning Laravel , Vue, C# and other languages and Tools
 
 #
      
