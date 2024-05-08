@@ -7,9 +7,10 @@
 
 #
 
-<div align="center">
+
           
-<h3 ### 😃 My contact!! ###</h3>
+<h3 align="center" ### 😃 My contact!! ###</h3>
+<div >  
 <a href="https://www.linkedin.com/in/gabriele-palma-758b59210/" target="_blank"><img align='left' alt='LinkedIn' width='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=gabry.palma@libero.it" target="_blank"><img align='left' alt='Libero' width='30px' src="img/Libero_logo.png" /></a>
 <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=dott.gabrielepalma@pec.it" target="_blank"><img align='left' alt='Aruba' width='30px' src="img/aruba_logo.png" /></a>
