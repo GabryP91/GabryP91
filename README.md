@@ -69,7 +69,7 @@
 <a href="https://openbadges.bestr.it/public/assertions/pP_u7HctQPaz86V9s_3Tuw"><img src="img/assertion-mOSagn4VQV6OjCvrA-b1oQ.png" style="width:50px"  alt="Palma's badge" /></a>
 </div>
 
-### <br clear="both">
+#<br clear="both">
 
 <h3 align="center">  📉 My GitHub Stats!! 📈 </h3>
 
