@@ -53,7 +53,7 @@
 <div align="center">
      <h3> 🎓 Badges </h3>
 
-     <b>My public Certifications </b>
+     <h4>My public Certifications </h4>
 </div>
 
 <a href="https://bestr.it/award/show/mOSagn4VQV6OjCvrA-b1oQ"><img src="img/assertion-mOSagn4VQV6OjCvrA-b1oQ.png" style="width:50px"  alt="Palma's badge" /></a>
