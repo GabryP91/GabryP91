@@ -52,7 +52,7 @@
 #
 <h3 align="center"> 🎓 Badges </h3>
 
-<b>My public Certifications </b>
+<b align="center">My public Certifications </b>
 
 <a href="https://bestr.it/award/show/mOSagn4VQV6OjCvrA-b1oQ"><img src="img/assertion-mOSagn4VQV6OjCvrA-b1oQ.png" style="width:50px"  alt="Palma's badge" /></a>
 <a href="https://openbadges.bestr.it/public/assertions/sL47oGnRQG--2CT1pLOOxg"><img src="img/assertion-mOSagn4VQV6OjCvrA-b1oQ.png" style="width:50px"  alt="Palma's badge" /></a>
