@@ -46,6 +46,7 @@
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" style="margin-top: 10px;"/>   
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="margin-top: 10px;"/>
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" style="margin-top: 10px;"/>     
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot.net/dot.net-original.svg" style="margin-top: 10px;"/>     
           
 <br clear="both">
 
