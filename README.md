@@ -77,7 +77,7 @@
 
 <div align="center">
      <a href="https://github.com/GabryP91" style="display: inline-block; margin-right: 20px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=GabryP91&show_icons=true&theme=blue-green&border_radius=6" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabryP91&theme=2077" />
     </a>
      <a href="https://github.com/GabryP91" style="display: inline-block; margin-right: 20px;">
           <img src="https://streak-stats.demolab.com?user=GabryP91&theme=blue-green&hide_border=true&border_radius=6" />
