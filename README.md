@@ -1,5 +1,5 @@
 <h1 align="center"># 🦾🦾 I am Palma Gabriele 🦿🦿</h1>
-
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabryP91&theme=2077
 <h1 align="center">Junior Full-Stack Developer and designer 2d and 3d</h1>
 
 - 🌍  I'm based in Barletta (BT) Italy
