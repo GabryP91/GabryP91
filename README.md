@@ -84,7 +84,8 @@
      </a>
      <br clear="both">
     <a href="https://github.com/GabryP91" style="display: inline-block; margin-right: 20px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabryP91&layout=pie&theme=blue-green&langs_count=10&border_radius=6"/>
+        <img src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabryP91&layout=pie&theme=blue-green&langs_count=10&border_radius=6&cache_seconds=1800)
+"/>
     </a>
 </div>
 
