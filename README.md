@@ -82,11 +82,9 @@
      <a href="https://github.com/GabryP91" style="display: inline-block; margin-right: 20px;">
           <img src="https://streak-stats.demolab.com?user=GabryP91&theme=blue-green&hide_border=true&border_radius=6" />
      </a>
-    
-     <br clear="both">
-    <a href="https://github.com/GabryP91" style="display: inline-block; margin-right: 20px;">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GabryP91&theme=dark&exclude=&langs_count=10"/>
-
-    </a>
+     <a href="https://github.com/GabryP91" style="display: inline-block; margin-right: 20px;">
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GabryP91&theme=dark&exclude=&langs_count=10" />
+     </a>
+  
 </div>
 
